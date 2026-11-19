@@ -11,6 +11,7 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
     <DebugType>embedded</DebugType>
+    <ContinuousIntegrationBuild Condition="'$(Configuration)' == 'Release'">true</ContinuousIntegrationBuild>
     <PathMap>$(MSBuildProjectDirectory)=/_/mutsumi</PathMap>
     <Product>幕间 · 睦桌宠</Product>
     <Description>若叶睦与 Mortis 的桌面剧场</Description>
