@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scratches>
+  <rig name="mutsumi">
+    <back name="mutsumi-scratch-back" x="115" y="177" />
+    <arm slot="1" shoulderX="148.293" shoulderY="201.253" elbowX="124.027" elbowY="273.68">
+      <upper name="mutsumi-scratch-upper1" x="108" y="191" />
+      <fore name="mutsumi-scratch-fore1" x="108" y="257" />
+    </arm>
+    <arm slot="2" shoulderX="148.293" shoulderY="201.253" elbowX="112.453" elbowY="252.773">
+      <upper name="mutsumi-scratch-upper2" x="108" y="190" />
+      <fore name="mutsumi-scratch-fore2" x="96" y="185" />
+    </arm>
+    <arm slot="3" shoulderX="148.293" shoulderY="201.253" elbowX="103.493" elbowY="228.88">
+      <upper name="mutsumi-scratch-upper3" x="98" y="191" />
+      <fore name="mutsumi-scratch-fore3" x="87" y="130" />
+    </arm>
+  </rig>
+  <rig name="mortis">
+    <back name="mortis-scratch-back" x="120" y="181" />
+    <arm slot="2" shoulderX="150.967" shoulderY="206.333" elbowX="115.767" elbowY="254.367">
+      <upper name="mortis-scratch-upper2" x="110" y="194" />
+      <fore name="mortis-scratch-fore2" x="98" y="184" />
+    </arm>
+    <arm slot="3" shoulderX="150.967" shoulderY="206.333" elbowX="106.967" elbowY="230.9">
+      <upper name="mortis-scratch-upper3" x="102" y="194" />
+      <fore name="mortis-scratch-fore3" x="87" y="132" />
+    </arm>
+  </rig>
+</scratches>

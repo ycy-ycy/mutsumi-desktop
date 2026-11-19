@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rigs>
+  <rig name="mutsumi-greet">
+    <part name="mutsumi-greet-hand" x="91" y="176" pivotX="121" pivotY="227" angle="10" dx="0" dy="0" />
+  </rig>
+  <rig name="mutsumi-perform">
+    <part name="mutsumi-perform-pickhand" x="119" y="265" pivotX="123" pivotY="278" angle="9" dx="0" dy="0" />
+  </rig>
+  <rig name="mutsumi-gift">
+    <part name="mutsumi-gift-offer" x="135" y="200" pivotX="187" pivotY="250" angle="2.2" dx="0" dy="-3" />
+  </rig>
+  <rig name="mutsumi-offerpick">
+    <part name="mutsumi-offerpick-pickhand" x="142" y="178" pivotX="151" pivotY="237" angle="6" dx="0" dy="0" />
+  </rig>
+  <rig name="mutsumi-shareearbud">
+    <part name="mutsumi-shareearbud-earbud" x="106" y="177" pivotX="125" pivotY="230" angle="3" dx="0" dy="0" />
+  </rig>
+  <rig name="mutsumi-straightencuff">
+    <part name="mutsumi-straightencuff-hand" x="176" y="259" pivotX="179" pivotY="272" angle="7" dx="1" dy="0" />
+  </rig>
+  <rig name="mutsumi-markscore">
+    <part name="mutsumi-markscore-pencil" x="153" y="190" pivotX="157" pivotY="244" angle="5.5" dx="0" dy="1" />
+  </rig>
+  <rig name="mortis-greet">
+    <part name="mortis-greet-hand" x="57" y="148" pivotX="104" pivotY="200" angle="10" dx="0" dy="0" />
+  </rig>
+  <rig name="mortis-perform">
+    <part name="mortis-perform-hand" x="35" y="151" pivotX="109" pivotY="187" angle="6" dx="0" dy="0" />
+  </rig>
+  <rig name="mortis-gift">
+    <part name="mortis-gift-bow" x="40" y="7" pivotX="192" pivotY="382" angle="-2" dx="0" dy="4" />
+  </rig>
+  <rig name="mortis-hush">
+    <part name="mortis-hush-hand" x="190" y="174" pivotX="199" pivotY="237" angle="2.6" dx="0" dy="0" />
+  </rig>
+  <rig name="mortis-presentrose">
+    <part name="mortis-presentrose-flowerhand" x="52" y="127" pivotX="92" pivotY="224" angle="7" dx="0" dy="0" />
+  </rig>
+  <rig name="mortis-tipberet">
+    <part name="mortis-tipberet-hand" x="78" y="99" pivotX="93" pivotY="155" angle="4" dx="0" dy="0" />
+  </rig>
+  <rig name="mortis-swingmoon">
+    <part name="mortis-swingmoon-moon" x="76" y="175" pivotX="95" pivotY="173" angle="10" dx="0" dy="0" />
+  </rig>
+</rigs>

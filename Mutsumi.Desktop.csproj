@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Mutsumi.Desktop</RootNamespace>
+    <AssemblyName>Mutsumi</AssemblyName>
+    <ApplicationIcon Condition="Exists('Assets/pet.ico')">Assets/pet.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
+    <DebugType>embedded</DebugType>
+    <PathMap>$(MSBuildProjectDirectory)=/_/mutsumi</PathMap>
+    <Product>幕间 · 睦桌宠</Product>
+    <Description>若叶睦与 Mortis 的桌面剧场</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="LICENSE;NOTICE.md" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Resource Include="Assets/*-idle.png;Assets/*-observe.png;Assets/*-sleep.png;Assets/*-sidepeek.png;Assets/*-blink.png" />
+    <Resource Include="Assets/Layers/*.png;Assets/Layers/*.xml" />
+  </ItemGroup>
+</Project>
