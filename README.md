@@ -2,6 +2,8 @@
 
 一个住在 Windows 桌面上的非官方同人工具。单击和她互动，双击在若叶睦与 Mortis 之间切换。睦闲下来会抱起吉他，Mortis 喜欢歪着头从屏幕边缘偷看。右键点她，可以聊天、翻译或记事。
 
+[在 B 站观看桌宠演示](https://www.bilibili.com/video/BV1B4sB6vEck) · [下载 Windows 便携版](https://github.com/ycy-ycy/mutsumi-desktop/releases)
+
 <img src="Assets/mutsumi-perform.png" alt="抱着粉色吉他的若叶睦" height="160"> <img src="Assets/mortis-tipberet.png" alt="扶着贝雷帽的 Mortis" height="160">
 
 ## 运行
